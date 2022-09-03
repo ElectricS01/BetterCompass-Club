@@ -1,0 +1,17 @@
+{
+  "development": {
+    "storage": "./bc.sql",
+    "dialect": "sqlite",
+    "logging": false
+  },
+  "test": {
+    "storage": "./bc.sql",
+    "dialect": "sqlite",
+    "logging": false
+  },
+  "production": {
+    "storage": "./bc.sql",
+    "dialect": "sqlite",
+    "logging": false
+  }
+}
