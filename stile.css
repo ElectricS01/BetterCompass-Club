@@ -4,6 +4,16 @@ body {
     background-color: #181A1B;
 }
 
+.container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+main {
+    flex: 1;
+}
+
 .topnav {
     overflow: hidden;
     background-color: #282A2B;
